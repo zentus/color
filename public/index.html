@@ -6,9 +6,10 @@
 	</head>
 	<body>
 		<div class="main">
-			<input type="text" id="picker" onchange="send(this.value)" placeholder="Pick HEX color">
+			<input type="text" class="jscolor {hash:true}" id="picker" onchange="send(this.value)" placeholder="Pick HEX color">
 		</div>
 
+		<script src="js/jscolor.min.js"></script>
 		<script src="socket.io/socket.io.js"></script>
 		<script src="js/client.js"></script>
 	</body>

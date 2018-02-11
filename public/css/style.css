@@ -1,0 +1,10 @@
+.main {
+	text-align: center;
+	padding-top: 50px;
+}
+input {
+	text-align: center;
+	width: 300px;
+	font-size: 2.5em;
+	outline: 0;
+}

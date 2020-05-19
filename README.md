@@ -1,5 +1,5 @@
 # color
-When you just have to color someone's screen
+When you just have to color someone's screen remotely
 
 ### Setup
 ```bash
